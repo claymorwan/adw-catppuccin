@@ -17,3 +17,6 @@ sudo flatpak override --filesystem=xdg-config/gtk-3.0 && sudo flatpak override -
 >You might need to log out/reboot you're computer for it to take effect.
 
 ## For more information, check out the [adw-colors](https://github.com/lassekongo83/adw-colors) repo (thanks to it that I could make these go check them out <3 ).
+
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/claymorwan/adw-catppuccin)
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg">](https://codeberg.org/claymorwan/adw-catppuccin)
