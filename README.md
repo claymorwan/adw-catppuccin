@@ -3,11 +3,11 @@
 
 | Libadwaita | adw-gtk3 |
 |:----------:| :-------:|
-| ![libadwaita](./preview.webp) | ![adw-gtk3](./adw-gtk3.webp) |
+| ![libadwaita](./assets/preview.webp) | ![adw-gtk3](./assets/adw-gtk3.webp) |
 
  # Installation
 
- Copy the `gtk.css` file in  `~/.config/gtk-4.0/gtk.css` and `~/.config/gtk-3.0/gtk.css`.
+ Copy the `catppuccin-<flavor>-<accent>.css` file in  `~/.config/gtk-4.0/gtk.css` and `~/.config/gtk-3.0/gtk.css` (don't forget to rename it to gtk.css).
  >If you already have files in these directories, just put them in a subdirectories as backup.
 
 For flatpak apps, allows access to these directories by running:
