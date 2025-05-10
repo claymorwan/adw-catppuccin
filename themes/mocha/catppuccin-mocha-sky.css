@@ -16,7 +16,7 @@ based on the solarized dark colours from adw-colors: https://github.com/lassekon
 @define-color accent_fg_color @crust;
 
 @define-color window_bg_color @base;
-@define-color window_fg_color @surface_0;
+@define-color window_fg_color @text;
 
 @define-color headerbar_bg_color @base;
 @define-color headerbar_fg_color @text;
