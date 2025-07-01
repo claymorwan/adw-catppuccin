@@ -1,4 +1,8 @@
 # adw-catppuccin
+ 
+> [!IMPORTANT]
+> Moved to a [monorepo](https://github.com/claymorwan/catppuccin)
+ 
  A unofficial Catppuccin port for [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita), based on [adw-colors](https://github.com/lassekongo83/adw-colors). Compatible with both libadwaita apps and the [adw-gtk3](https://github.com/lassekongo83/adw-gtk3) theme.
 
 | Libadwaita | adw-gtk3 |
